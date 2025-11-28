@@ -1,1 +1,1 @@
-This is my third software engineering project. After mastering JavaScript basics, I explored more advanced concepts by building this Rock-Paper-Scissors game. Here, you can either play against the computer or let it auto-play. Hope you enjoy!
+This is my third software engineering project. After mastering JavaScript basics, I explored more advanced concepts by building this Rock-Paper-Scissors game. Here, you can either play against the computer or let it auto-play. Hope you enjoy.
